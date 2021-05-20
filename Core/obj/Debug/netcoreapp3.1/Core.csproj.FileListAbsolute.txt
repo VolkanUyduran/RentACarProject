@@ -1,0 +1,9 @@
+C:\Users\volka\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\volka\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\volka\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\volka\source\repos\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\volka\source\repos\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\volka\source\repos\ReCapProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\volka\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\volka\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\volka\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
