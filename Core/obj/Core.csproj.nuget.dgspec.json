@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj": {}
+    "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
+    "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\volka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Volkan Uyduran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\volka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volkan Uyduran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

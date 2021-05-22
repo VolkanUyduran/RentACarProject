@@ -14,3 +14,19 @@ C:\Users\volka\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Busine
 C:\Users\volka\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\volka\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\volka\source\repos\ReCapProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Business\obj\Debug\netcoreapp3.1\Business.pdb

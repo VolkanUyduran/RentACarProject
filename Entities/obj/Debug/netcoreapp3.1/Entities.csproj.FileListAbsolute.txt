@@ -10,3 +10,15 @@ C:\Users\volka\source\repos\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entiti
 C:\Users\volka\source\repos\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
 C:\Users\volka\source\repos\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Users\volka\source\repos\ReCapProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

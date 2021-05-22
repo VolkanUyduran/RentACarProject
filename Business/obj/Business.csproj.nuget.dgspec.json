@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\volka\\source\\repos\\ReCapProject\\Business\\Business.csproj": {}
+    "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\volka\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
+    "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\volka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Business\\obj\\",
+        "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Volkan Uyduran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\volka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volkan Uyduran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\volka\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\volka\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -87,17 +87,17 @@
         }
       }
     },
-    "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
+    "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\volka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Volkan Uyduran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\volka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volkan Uyduran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -175,17 +175,17 @@
         }
       }
     },
-    "C:\\Users\\volka\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volka\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\volka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Volkan Uyduran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\volka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volkan Uyduran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -199,11 +199,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj"
+              "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\volka\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -242,17 +242,17 @@
         }
       }
     },
-    "C:\\Users\\volka\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\volka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Volkan Uyduran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\volka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volkan Uyduran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -266,8 +266,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\volka\\source\\repos\\ReCapProject\\Core\\Core.csproj"
+              "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Volkan Uyduran\\source\\repos\\VolkanUyduran\\RentACarProject\\Core\\Core.csproj"
               }
             }
           }

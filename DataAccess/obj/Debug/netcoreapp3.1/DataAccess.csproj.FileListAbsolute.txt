@@ -12,3 +12,17 @@ C:\Users\volka\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\Data
 C:\Users\volka\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\volka\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\volka\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Volkan Uyduran\source\repos\VolkanUyduran\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

@@ -13,7 +13,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entiti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{73C8C831-99C3-48F3-8222-DE55D56707C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{C0D45FE7-12A6-465C-8617-B943A1B95976}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{C0D45FE7-12A6-465C-8617-B943A1B95976}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{3378E279-AC9E-49F9-A7B1-D6F91C4C3AF8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\ReCapDatabase.dacpac = ..\..\..\..\Desktop\ReCapDatabase.dacpac
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
